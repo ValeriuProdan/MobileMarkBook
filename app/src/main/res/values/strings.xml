@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Carnet</string>
+    <string name="materie1">Matematica</string>
+    <string name="materie2">Romana</string>
+    <string name="materie3">Engleza</string>
+    <string name="materie4">Biologie</string>
+    <string name="materie5">Geografie</string>
+    <string name="materie6">Sport</string>
+    <string name="medie1">10</string>
+    <string name="medie2"> 9</string>
+    <string name="medie3"> 7</string>
+    <string name="medie4">10</string>
+    <string name="medie5"> 8</string>
+    <string name="medie6">10</string>
+    <string name="nota1">Nota1</string>
+    <string name="nota2">Nota2</string>
+    <string name="nota3">Nota3</string>
+    <string name="nota4">Nota4</string>
+    <string name="nota5">Nota5</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_materie1">Matematica</string>
+    <string name="Calculeaza">Calculeaza</string>
+    <string name="Teza">Teza</string>
+    <string name="Medie">Medie</string>
+    <string name="Sugestii">Sugestii</string>
+
+
+</resources>
